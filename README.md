@@ -9,7 +9,7 @@
     <img src="https://images.credly.com/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="Meta Front-End Developer Badge" width="200"/>
   </a>
 </p>
-<p align="center"><strong>Meta Front-End Developer</strong><br>Issued by Meta via Credly</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasurjyasarma&label=Profile%20views&color=0e75b6&style=flat" alt="prasurjyasarma" /> </p>
