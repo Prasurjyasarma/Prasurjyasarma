@@ -55,26 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasurjyasarma&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasurjyasarma&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasurjyasarma&theme=tokyonight"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasurjyasarma&theme=onedark&row=1&column=6"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p>
   <a href="https://prasurjya-portfolio.netlify.app/" target="_blank">
